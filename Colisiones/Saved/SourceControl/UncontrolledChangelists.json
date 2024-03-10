@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba02unreal/Colisiones/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba02unreal/Colisiones/Content/StarterContent/Props/SM_Chair.uasset",
+				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba02unreal/Colisiones/Content/Silla.uasset",
+				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba02unreal/Colisiones/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/MN/DGIOW6DZZM274FB7G21BKA.uasset",
+				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba02unreal/Colisiones/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KY/310WXLT2OIEBL5S5FVZJBM.uasset",
+				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba02unreal/Colisiones/Content/Puerta.uasset",
+				"C:/Users/josef/Desktop/Proyectos UnrealEngine/Prueba02unreal/Colisiones/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6V/4DVW4HUNM9LF0GH5C1LZUM.uasset"
+			]
+		}
+	]
+}
